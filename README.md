@@ -59,11 +59,3 @@ This project consists of code that uses NLP techniques for author name predictio
 # Conclusion
 
 From the above accuracies, we conclude that BERT is the model with the best performance.
-
-# Your Name
-
-Hi, I am Iman Kalyan Chakraborty, a passionate ML and DL developer from Kolkata. Here are my socials :
-
-Twitter / X - https://twitter.com/ikc1975
-
-LinkedIn - https://www.linkedin.com/in/imankalyanchakraborty/
